@@ -4,7 +4,7 @@ REM Script: run-executable.bat
 REM Purpose: Run the HelloWorldApp.exe file
 REM -----------------------------------------
 
-set EXECUTABLE_PATH=D:\PratikpJenkins\Build Output\HelloWorldApp.exe
+set EXECUTABLE_PATH=D:\PratikpJenkins\Build Output\dummy.exe
 
 echo Running executable: %EXECUTABLE_PATH%
 
