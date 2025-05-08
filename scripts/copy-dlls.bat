@@ -7,7 +7,7 @@ REM -----------------------------------------
 echo Copying build output files...
 
 REM Set paths dynamically
-set SOURCE_DIR=%CD%\HelloWorldApp\bin\Release
+set SOURCE_DIR=%CD%\dummy\bin\Release
 set TARGET_DIR=D:\PratikpJenkins\Build Output
 
 REM Create target directory if it doesn't exist
