@@ -1,0 +1,14 @@
+D:\vs-code-workspace\HelloPratik\HelloPratik\bin\Debug\net8.0\HelloPratik.exe
+D:\vs-code-workspace\HelloPratik\HelloPratik\bin\Debug\net8.0\HelloPratik.deps.json
+D:\vs-code-workspace\HelloPratik\HelloPratik\bin\Debug\net8.0\HelloPratik.runtimeconfig.json
+D:\vs-code-workspace\HelloPratik\HelloPratik\bin\Debug\net8.0\HelloPratik.dll
+D:\vs-code-workspace\HelloPratik\HelloPratik\bin\Debug\net8.0\HelloPratik.pdb
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\HelloPratik.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\HelloPratik.AssemblyInfoInputs.cache
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\HelloPratik.AssemblyInfo.cs
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\HelloPratik.csproj.CoreCompileInputs.cache
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\HelloPratik.dll
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\refint\HelloPratik.dll
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\HelloPratik.pdb
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\HelloPratik.genruntimeconfig.cache
+D:\vs-code-workspace\HelloPratik\HelloPratik\obj\Debug\net8.0\ref\HelloPratik.dll
