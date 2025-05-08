@@ -1,0 +1,14 @@
+D:\vs-code-workspace\dummy\dummy\bin\Debug\net9.0\dummy.exe
+D:\vs-code-workspace\dummy\dummy\bin\Debug\net9.0\dummy.deps.json
+D:\vs-code-workspace\dummy\dummy\bin\Debug\net9.0\dummy.runtimeconfig.json
+D:\vs-code-workspace\dummy\dummy\bin\Debug\net9.0\dummy.dll
+D:\vs-code-workspace\dummy\dummy\bin\Debug\net9.0\dummy.pdb
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\dummy.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\dummy.AssemblyInfoInputs.cache
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\dummy.AssemblyInfo.cs
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\dummy.csproj.CoreCompileInputs.cache
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\dummy.dll
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\refint\dummy.dll
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\dummy.pdb
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\dummy.genruntimeconfig.cache
+D:\vs-code-workspace\dummy\dummy\obj\Debug\net9.0\ref\dummy.dll
